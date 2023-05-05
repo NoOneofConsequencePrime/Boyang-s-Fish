@@ -1,0 +1,4 @@
+{
+    "arduino.enableUSBDetection": true,
+    "arduino.useArduinoCli": true
+}
