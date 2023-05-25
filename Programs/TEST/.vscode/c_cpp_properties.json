@@ -18,6 +18,9 @@
             "includePath": [
                 "C:\\Users\\Bryan.zhao\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
                 "C:\\Users\\Bryan.zhao\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
+                "C:\\Users\\Bryan.zhao\\OneDrive - St. Andrew's College\\Documents\\Arduino\\libraries\\MPU6050_tockn\\src",
+                "C:\\Users\\Bryan.zhao\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\Wire\\src",
+                "C:\\Users\\Bryan.zhao\\OneDrive - St. Andrew's College\\Documents\\Arduino\\libraries\\Adafruit_VL53L0X\\src",
                 "c:\\users\\bryan.zhao\\appdata\\local\\arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\lib\\gcc\\avr\\7.3.0\\include",
                 "c:\\users\\bryan.zhao\\appdata\\local\\arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\lib\\gcc\\avr\\7.3.0\\include-fixed",
                 "c:\\users\\bryan.zhao\\appdata\\local\\arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\avr\\include"
